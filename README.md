@@ -1,1 +1,1 @@
-# PufferPanel-Installer
+# 🐡 PufferPanel Installer
